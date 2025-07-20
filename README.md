@@ -98,4 +98,4 @@ If you are in VS Code, you can run the program by clicking the play button â–¶ï¸
 A new team.gif should appear in the same folder:
 
 team.gif
-# Make It Your Own
+
